@@ -19,7 +19,7 @@ $ npm install -g art-traverse
 $ art-t COMMAND
 running command...
 $ art-t (-v|--version|version)
-art-traverse/0.0.1 darwin-x64 node-v14.15.4
+art-traverse/0.0.2 darwin-x64 node-v14.15.4
 $ art-t --help [COMMAND]
 USAGE
   $ art-t COMMAND
